@@ -1,0 +1,13 @@
+button {
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    background-color: rgb(10, 131, 71);
+    border-radius: 20px;
+    border: 0;
+    padding: 10px 60px;
+    cursor: pointer;
+    margin-top: 70px;
+    margin-bottom: 30px;
+  }
+  
