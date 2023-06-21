@@ -2,13 +2,23 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-.header {
-    background-image;
+.cabecalho {
+    background-color: rgb(37, 85, 71);
     color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 10%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 16px;
 }
 
 button {
