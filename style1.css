@@ -1,3 +1,16 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.header {
+    background-image;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
 button {
     font-size: 18px;
     font-weight: 600;
